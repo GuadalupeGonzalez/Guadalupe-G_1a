@@ -2,3 +2,5 @@
 planning ok
 design  working 
 code ok
+Compile ok 
+Test ok
